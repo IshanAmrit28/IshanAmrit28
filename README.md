@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="240" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_640.jpg"  />
+<p align="left">🎓 I’m a student at VIT Bhopal University<br><br>💻 Passionate about Web Development  and building scalable projects<br><br>☁ Exploring Cloud & AWS with hands-on projects<br><br>🛠 Skilled in C++, flexible with Java & Python, and experienced in both frontend & backend development<br><br>📚 Always eager to learn, adapt, and take on new challenge</p>
 
 ###
 
-<p align="left">🎓 I’m a student at VIT Bhopal University<br><br>💻 Passionate about Web Development  and building scalable projects<br><br>☁ Exploring Cloud & AWS with hands-on projects<br><br>🛠 Skilled in C++, flexible with Java & Python, and experienced in both frontend & backend development<br><br>📚 Always eager to learn, adapt, and take on new challenge</p>
+<img align="right" height="240" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_640.jpg"  />
 
 ###
 
@@ -73,6 +73,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IshanAmrit28&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanAmrit28&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/IshanAmrit28/IshanAmrit28/output/snake.svg" alt="Snake animation" />
 
 ###
 
