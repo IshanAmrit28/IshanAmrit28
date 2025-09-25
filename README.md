@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">🎓 I’m a student at VIT Bhopal University<br><br>💻 Passionate about Web Development  and building scalable projects<br><br>☁ Exploring Cloud & AWS with hands-on projects<br><br>🛠 Skilled in C++, flexible with Java & Python, and experienced in both frontend & backend development<br><br>📚 Always eager to learn, adapt, and take on new challenge</p>
+<img align="right" height="240" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_640.jpg"  />
 
 ###
 
-<img align="right" height="240" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764524_640.jpg"  />
+<p align="left">🎓 I’m a student at VIT Bhopal University<br><br>💻 Passionate about Web Development  and building scalable projects<br><br>☁ Exploring Cloud & AWS with hands-on projects<br><br>🛠 Skilled in C++, flexible with Java & Python, and experienced in both frontend & backend development<br><br>📚 Always eager to learn, adapt, and take on new challenge</p>
 
 ###
 
